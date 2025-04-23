@@ -138,9 +138,7 @@ const Login = () => {
                       required
                     />
                   </div>
-                  <div className="text-sm text-gray-500">
-                    <p>Pour se connecter en tant qu'admin: admin@carflow.com / admin123</p>
-                  </div>
+
                 </CardContent>
                 <CardFooter className="flex flex-col gap-4">
                   <Button 
@@ -194,9 +192,7 @@ const Login = () => {
                       required
                     />
                   </div>
-                  <div className="text-sm text-gray-500">
-                    <p>Pour se connecter en tant qu'admin: admin@carflow.com / admin123</p>
-                  </div>
+
                 </CardContent>
                 <CardFooter className="flex flex-col gap-4">
                   <Button 
